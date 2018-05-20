@@ -1,3 +1,6 @@
+//  DayOfYear.cpp Takes a day of the year and convert to a date. Also, can print out that date
+//  Adam Tucker
+//  05/19/18
 #pragma once
 #include <iostream>
 using namespace std;
@@ -26,6 +29,7 @@ const unsigned short int __mon_yday[2][13] =
 	{ 0, 31, 60, 91, 121, 152, 182, 213, 244, 274, 305, 335, 366 }
 };
 
+// Months in a year
 const string months[12] = { "January","February","March","April","May","June","July","August","September","October","November","December" };
 
 class DayOfYear {
@@ -53,11 +57,11 @@ public:
 	void print(int);
 
 private:
-	string month;
-	int dayOfMonth;
-	int year;
-	int dayOfYear;
-	int daysInYear;
-	bool properDayOfYear;
+	string month; // Current month
+	int dayOfMonth; // day in current month
+	int year; // current year
+	int dayOfYear; // day in the year
+	int daysInYear; // number of days in current year
+	bool properDayOfYear; // ensures object is created with proper day in year
 };
 
