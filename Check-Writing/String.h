@@ -1,3 +1,6 @@
+// Author: Sergey Kolevatov 2015
+// Author: Adam Tucker 05/20/18
+// https://github.com/trodevel/HumanizerCpp
 // $Revision: 2332 $ $Date:: 2015-08-18 #$ $Author: serge $
 
 #ifndef _System_String_h_

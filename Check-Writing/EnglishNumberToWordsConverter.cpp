@@ -1,3 +1,6 @@
+// Author: Sergey Kolevatov 2015
+// Author: Adam Tucker 05/20/18
+// https://github.com/trodevel/HumanizerCpp
 #include "EnglishNumberToWordsConverter.h"      // self
 
 

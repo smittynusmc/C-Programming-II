@@ -4,8 +4,9 @@
 // An average function is called that calculates the average movies seen, mode of movies seen and median of movies seen.
 // Program displays the sorted list of movies seen, names and the movies seen average, mode and median with appropriate headings.
 // (Gaddis 701)
-// Adam Tucker
-// 05/11/18
+// Author: Adam Tucker
+// https://github.com/trodevel/HumanizerCpp
+// 05/20/18
 
 #include <iostream>
 #include <string>
