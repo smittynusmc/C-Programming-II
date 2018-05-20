@@ -1,6 +1,8 @@
 //  DayOfYear.cpp Takes a day of the year and convert to a date. Also, can print out that date
 //  Adam Tucker
 //  05/19/18
+// Code adapted from:
+//https://stackoverflow.com/questions/17634282/how-can-i-convert-the-day-of-the-year-1-365-to-its-equivalent-date-ie-januar?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
 #pragma once
 #include <iostream>
 using namespace std;
