@@ -1,0 +1,12 @@
+Write a program that asks the user for the name of a text file. 
+The program should display the first 10 lines of the file on the screen. 
+If the file has fewer than 10 lines, 
+the entire file should be displayed along 
+with a message indicating the entire file 
+has been displayed.
+
+
+(Gaddis 911)
+Gaddis, Tony. Starting Out With C++, 9th Edition. Pearson, 20160406. VitalBook file.
+The citation provided is a guideline. 
+Please check each citation for accuracy before use.
